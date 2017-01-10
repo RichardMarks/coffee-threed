@@ -1,13 +1,7 @@
-# Barebones Coffee
-CoffeeScript HTML5 Barebones Project Template
+# Coffee ThreeD
 
 ## What is this?
-This project may be cloned to quickly get up and running with CoffeeScript game development.
-
-## What is included?
-+ Gulp powered build system with asset watching and easy distribution task
-+ DOMContentLoaded bootstrap index.js file to get you started
-+ Bonus simple starfield canvas demo which can be used to start your own games.
+A THREE.js demo that I ported from some very old code I had in my archives
 
 ## Can I use this commercially?
 I, Richard Marks, hereby place this project under the MIT license.
